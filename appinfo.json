@@ -1,0 +1,28 @@
+{
+    "appKeys": {
+        "dummy": 0
+    },
+    "capabilities": [
+        "configurable"
+    ],
+    "companyName": "Linkbeat Tech",
+    "longName": "QR Code",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/Cover Image.png",
+                "menuIcon": true,
+                "name": "IMAGE_COVER_SHOT",
+                "type": "png"
+            }
+        ]
+    },
+    "shortName": "QR Code",
+    "uuid": "7795a9d5-a4dc-beef-922e-4d54b9233964",
+    "versionCode": 1,
+    "versionLabel": "0.5",
+    "watchapp": {
+        "watchface": false
+    }
+}
